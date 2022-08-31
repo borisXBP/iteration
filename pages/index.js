@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{" "}
+          测试推送过程 修改文件可以开始{" "}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
